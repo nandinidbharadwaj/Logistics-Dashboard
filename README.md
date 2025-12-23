@@ -91,8 +91,6 @@ The project uses **four data tables**:
 
 - .pbix file – Power BI dashboard
 
-- Dataset files – Country, Product, Salesperson, Shipment
-
 - Screenshots – Dashboard preview
 
 - README.md – Project documentation
