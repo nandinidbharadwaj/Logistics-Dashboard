@@ -1,4 +1,4 @@
-# Logistics-Dashboard
+# Supply Chain Optimization: Logistics Efficiency and Lead-Time Performance Analytics
 This project focuses on analyzing logistics and shipment performance using Power BI.
 
 # Logistics Dashboard – Power BI
